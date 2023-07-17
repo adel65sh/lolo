@@ -1,0 +1,2 @@
+# lolo
+base network mainnet
